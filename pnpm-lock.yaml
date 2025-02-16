@@ -17,6 +17,9 @@ importers:
       '@monorepo/utils':
         specifier: workspace:*
         version: link:../utils
+      axios:
+        specifier: ^1.7.9
+        version: 1.7.9
       react:
         specifier: ^19.0.0
         version: 19.0.0
